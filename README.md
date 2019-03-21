@@ -1,4 +1,4 @@
-# Launch SWE Countdown: Wednesdays 5:30-7:30pm
+# Launch SWE Countdown: Session C
 
 Official repository for Launch SWE Countdown (session C): https://github.come/bsnead/swe-countdown-c
 
