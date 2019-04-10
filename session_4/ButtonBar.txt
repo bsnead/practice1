@@ -1,0 +1,8 @@
+Instead of having three separate button components, we will create a "Button Bar" component that will hold all three buttons. The general functionality of your app will be the same, but this will give you good practice on creating components, as well as managing a parent's state from the child component. A few things to get you started:
+- You will want to create a new javascript file for your button bar component. For example: ButtonBar.js
+- You will put your three buttons that you made in App.js into this button bar component
+- You will want to utilize the use of a function in your parent component that will change its state (in this case, the count) from the child component, as discussed in class today. What does this look like?
+	- Some kind of "updateParent" function in your App.js
+	- Pass this function as props to your ButtonBar component
+	- Call this function in your ButtonBar component (by using props). This will update state based on which button is clicked
+- Lost? Ask for help! Daniel is an expert :) 
