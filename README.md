@@ -14,7 +14,7 @@ These class times will be devoted to some introductory learning, pair programmin
 
 ## Expectations
 
-Participants are expected to attend countdown meetings each week. It is very important that you do not miss these sessions, as they will prepare you for your summer at Launch, as well as your internships. If you have a conflict, please talk to an instructor to evaluate your situation so we can try to work something out.
+Participants are expected to attend countdown meetings each week. It is very important that you do not miss these sessions, as they will prepare you for your summer at Launch, as well as your internships. If you have a conflict, please talk to Kaleigh Watson to evaluate your situation so we can try to work something out.
 
 ## Session 1: Overview of Git, Node, and the Terminal
 
@@ -27,3 +27,7 @@ We will touch quickly on several more advanced topics that in Javascript that ar
 ## Session 3: Introduction to React
 
 This is where the fun begins! We will start to make web applications in React, going over the fundamentals and all the necessary components. 
+
+## Week 4: React, Continued, HTTP/API request
+
+Take a deeper dive into react and start applying some of the advanced javascript techniques that we learned during session 2. You will learn about state and props, and how the parent and child components interact. Furthermore, we will go over HTTP requests, APIs, and how to pull data from APIs using a node module called axios, which will make your app a lot more functional
